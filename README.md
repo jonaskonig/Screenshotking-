@@ -10,8 +10,8 @@ pip install fpdf pyautogui pillow pynput PySimpleGUI
 ```
 ## Mac OS
 So to run the program without any issues, it's best to give Python (the Programming language) access to everything.
-For that you have to hob into your Settings --> Security --> privacy and search for full disk access
-There you open the lock in the lower-left corner and click in the +-Symbol
+For that you have to hob into your Settings --> Security --> privacy and search for full disk access.
+There you open the lock in the lower-left corner and click in the +-Symbol.
 Now you have to know where Python is on your Mac. Normally it's in 
 ```
 /usr/bin/python3
