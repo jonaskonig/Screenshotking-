@@ -8,6 +8,17 @@
  ```
 pip install fpdf pyautogui pillow pynput PySimpleGUI
 ```
+## Mac OS
+So in order to run the programm without any issues it's best to give Python (the Programming language) acsees to everything.
+For that you have to hob into your Settings --> Security --> privacy and search for full disk access
+There you open the lock in the lower left corner and click in the +-Symbol
+Now you have to know where Python is on yor Mac. Normally it's in 
+```
+/usr/bin/python3
+```
+But in order to get there you have first to press ```Command+Shift+Dot(.) ```
+Then you have to go to  ``` WhateveryourMacisnamed MacBook --> Macintosh HD --> usr --> bin --> python3 ```
+And add it. Know it should work just fine if not go to the same Folder and search for python (without 3) and add that as well
 And then run the screenshotter.py
 1. Choose if you are using Windows
 2. Choose you ppsx/ptx from your files
