@@ -20,7 +20,10 @@ But in order to get there, you have first to press ```Command+Shift+Dot(.) ```
 Then you have to go to  ``` WhateveryourMacisnamed MacBook --> Macintosh HD --> usr --> bin --> python3 ```
 And add it. 
 Now it should work just fine if not go to the same Folder and search for python (without 3) and add that as well
-
+Note thta on MacOS you have to run the programm via terminal. You have to navigate to the folder via Finder. 
+Then go to Finder --> Services --> New Terminal Tab at Folder and type:
+``` python ./screenshotter.py
+```
 And then run the screenshotter.py
 1. Choose if you are using Windows
 2. Choose you ppsx/ptx from your files
